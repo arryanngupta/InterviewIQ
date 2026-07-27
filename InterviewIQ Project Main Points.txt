@@ -1,0 +1,3 @@
+Authentication
+frontend se name or email aaya usse search kia ki user exist krta h ya nhi if not then we'll create it then generate the token and store in the cookie
+and in the log out part we just clear the cookie
